@@ -1,3 +1,2 @@
-# CV
-Makridina Svetlana
+# Makridina Svetlana 
 portfolio
